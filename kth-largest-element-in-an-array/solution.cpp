@@ -12,7 +12,5 @@ public:
     int n=nums.size();
       return nums[n-k];           // MERGE SORT TC=n*log(n)
 
-    
-    
 }
 };
